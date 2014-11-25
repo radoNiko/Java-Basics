@@ -12,5 +12,5 @@ public class _1_Rectangle_Area {
 		int b = input.nextInt();
 		System.out.println("The Area of the rectangle is: " + (a*b));
 	}
-
+	// sad
 }
